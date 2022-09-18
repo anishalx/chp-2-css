@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 2000px;
+    height: 3335px;
+    /* background-color: blue; */
+    color: white;
+    /* background-image: url('coding.jpg'); */
+    border: 2px solid red;
+    /* background-repeat:  no-repeat; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+    /* background-size: 3000px 2000px; */
+    /* background-position: top left ; */
+    /* background-size: auto; */
+    /* background-attachment: fixed; */
+    background: red url('coding.jpg') no-repeat scroll top left;
+
+}
+/* body{
+    background-image: url('coding.jpg');
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat:  no-repeat;
+    background-repeat:  space;
+
+} */

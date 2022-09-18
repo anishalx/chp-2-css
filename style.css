@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+background: red;
+height: 344px;
+color: aqua;
+}
+.yellow{background-color: blueviolet;
+color: rgb(20, 238, 9);
+}
