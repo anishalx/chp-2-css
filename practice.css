@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    background-color: blueviolet;
+    color: aquamarine;
+    height: 304px;
+    width: 200px;
+}
+.main{ 
+
+    color: red;
+
+}
+.bg{
+    width: 610px;
+    height: 1000px;
+    background-image: url('coding.jpg');
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    background-size: 600px 350px;
+    /* background-position:center ; */
+    background-attachment: fixed;
+}
